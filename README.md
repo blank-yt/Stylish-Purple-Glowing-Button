@@ -13,4 +13,4 @@ Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/c48e84c9-9411-4
 - or [`Fork`](https://github.com/blank-yt/Stylish-Purple-Glowing-Button/fork) it to your repository.
 
 ## Video
-[![Video](https://img.youtube.com/vi/XQ51W0X5y0/0.jpg)](https://www.youtube.com/watch?v=XQ51W0X5y0)
+[![Video](https://img.youtube.com/vi/-XQ51W0X5y0/0.jpg)](https://www.youtube.com/watch?v=-XQ51W0X5y0)
